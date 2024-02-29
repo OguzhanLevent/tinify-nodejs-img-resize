@@ -1,0 +1,14 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Proje açıklaması",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "tinify": "^1.7.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
